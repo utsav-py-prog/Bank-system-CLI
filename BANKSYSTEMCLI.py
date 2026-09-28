@@ -109,8 +109,6 @@ def create():
 
           print(F'Your Account Number is: {Accountnum}')
 
-          print("----------------------------------------------------------------------------------------------------------")
-
           Balance=0
 
           save_file_to()
